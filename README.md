@@ -3,7 +3,7 @@
 DUPLA/TRIO:
 
 - Lucas Hix (Peng1104)
-- Pedro Portella (?)
+- Pedro Portella (Vacbo)
 - Tales Ivalque (talesitf)
 - Link do GitHub Pages: COLOQUE O LINK AQUI (POR EXEMPLO: https://insper-tecnologias-web.github.io/desafio-css/)
 
