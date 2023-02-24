@@ -229,3 +229,47 @@ align-items: center;
 .card-color-5 {
   background-color: #EAD3A7;
 }
+
+.card-rotation-1 {
+  rotate: 2deg;
+}
+
+.card-rotation-2 {
+  rotate: 4deg;
+}
+
+.card-rotation-3 {
+  rotate: 6deg;
+}
+
+.card-rotation-4 {
+  rotate: 8deg;
+}
+
+.card-rotation-5 {
+  rotate: -2deg;
+}
+
+.card-rotation-6 {
+  rotate: -4deg;
+}
+
+.card-rotation-7 {
+  rotate: -6deg;
+}
+
+.card-rotation-8 {
+  rotate: -8deg;
+}
+
+.card-rotation-9 {
+  rotate: 3deg;
+}
+
+.card-rotation-10 {
+  rotate: 5deg;
+}
+
+.card-rotation-11 {
+  rotate: -5deg;
+}
