@@ -169,6 +169,7 @@ align-items: center;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+  width: 94%;
   align-items: flex-start;
   justify-content: space-around;
   background-color: #ffffff;
